@@ -1,2 +1,2 @@
-# healthmanager-privacy
-健康管家隐私政策
+# shuxun-privacy
+曙巡隐私政策
